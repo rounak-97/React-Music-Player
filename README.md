@@ -66,7 +66,7 @@ npm run dev
 
 ## Deployment
 
-LIVE LINK --------> ""
+LIVE LINK --------> "https://react-music-player-kappa-wine.vercel.app/"
 
 ------------------------------------------------------------------------
 
